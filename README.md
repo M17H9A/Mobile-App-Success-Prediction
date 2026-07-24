@@ -62,7 +62,5 @@ A business analytics project applying data cleaning, feature engineering, and cl
 #    MODEL PERFORMANCE COMPARISON.R
 ```
 
-## 📈 Results
 
-See `PBA Group03 Business Analytics Report.pdf` for full findings, model comparison table, and business recommendations.
 
