@@ -61,6 +61,8 @@ A business analytics project applying data cleaning, feature engineering, and cl
 #    DATA PREPARATION FOR MODELLING.R → individual model scripts →
 #    MODEL PERFORMANCE COMPARISON.R
 ```
+📈 Results
 
+See Group03 Business Analytics Report.pdf for full findings, model comparison table, and business recommendations.
 
 
